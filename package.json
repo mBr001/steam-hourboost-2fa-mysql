@@ -1,0 +1,25 @@
+{
+  "name": "steam-hourboost-2fa-mysql",
+  "version": "1.0.0",
+  "description": "Steam Hourboost Script with SteamGuard/MobileAuth and MySQL Support",
+  "main": "app.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "mysql": "^2.16.0",
+    "npmlog": "^4.1.2",
+    "steam": "^1.4.0",
+    "steam-totp": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Triniayo/steam-hourboost-2fa-mysql.git"
+  },
+  "devDependencies": {
+    "pm2": "^3.2.1"
+  },
+  "scripts": {
+    "start": "pm2 start app.js --name hourboost"
+  },
+  "author": "Triniayo",
+  "license": "ISC"
+}
