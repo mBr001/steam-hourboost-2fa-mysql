@@ -25,7 +25,7 @@ npm install
 
 ### ▶️ Run the `hourboost.sql` on your MySQL-Database
 
-### ✏️ Replace `servers.js` in node_modules/steam/lib with [my servers.js](https://github.com/Triniayo/steam-hourboost-2fa-mysql/tree/master/node_modules/steam/lib)
+### ✏️ Replace `servers.js` in `node_modules/steam/lib` with [my servers.js](https://github.com/Triniayo/steam-hourboost-2fa-mysql/tree/master/node_modules/steam/lib)
 
 ### ▶️ Run `npm start` to start boosting
 
