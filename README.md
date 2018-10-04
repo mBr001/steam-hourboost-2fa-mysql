@@ -35,4 +35,5 @@ npm install
 
 * Triniayo
 
-This is a updated version of my old repository [steam-hourboost-mysql](https://github.com/Triniayo/steam-hourboost-mysql)
+
+This is an updated version of my old repository [steam-hourboost-mysql](https://github.com/Triniayo/steam-hourboost-mysql)
