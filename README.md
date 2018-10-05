@@ -1,4 +1,4 @@
-# Steam HourBoost Script with MySQL-Support
+# Steam HourBoost Script with SteamGuard/MobileAuth and MySQL-Support
 
 This is a Steam HourBoost Script with SteamGuard/MobileAuth and MySQL-Support written in Node.js.
 
